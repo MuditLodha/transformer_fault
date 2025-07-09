@@ -47,7 +47,7 @@ The notebook includes visual analysis for:
 - Use ML models for predictive fault classification
 - Merge with real-time transformer logs for deployment
 
-## 🧑‍💻 Author
+## Author
 
 **Mudit Lodha**  
 Electrical Engineering  
